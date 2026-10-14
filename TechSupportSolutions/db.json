@@ -1,0 +1,37 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Computador não liga",
+      "description": "O computador da recepção não liga ao pressionar o botão de energia.",
+      "category": "HARDWARE",
+      "priority": "ALTA",
+      "status": "ABERTO"
+    },
+    {
+      "id": "2",
+      "title": "Instalar pacote de escritório",
+      "description": "Solicito instalação e configuração do pacote de escritório na máquina do setor financeiro.",
+      "category": "SOFTWARE",
+      "priority": "MEDIA",
+      "status": "EM_ANDAMENTO"
+    },
+    {
+      "id": "3",
+      "title": "Instabilidade na conexão",
+      "description": "A conexão de rede cai durante o expediente e prejudica o acesso aos sistemas.",
+      "category": "REDE",
+      "priority": "BAIXA",
+      "status": "CONCLUIDO"
+    },
+    {
+      "title": "Computador deu tela azul",
+      "description": "Simplesmente deu tela azul enquanto estava dando upload em um projeto.",
+      "category": "SOFTWARE",
+      "priority": "ALTA",
+      "status": "ABERTO",
+      "id": "Yzx2tKyrkgc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
